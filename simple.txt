@@ -1,7 +1,0 @@
-Hello Nikita
-Hello Bhoyar
-Hello Nikita Bhoyar
-
-// This is it
-
-// I love Samosa
